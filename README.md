@@ -29,7 +29,7 @@ The dataset contains **113,549 Spotify tracks** across **114 music genres**, wit
 **Dataset Source:** [Spotify Tracks Dataset (Kaggle)](https://www.kaggle.com/datasets/maharshipandya/-spotify-tracks-dataset)
 
 
-
+---
 
 ## Tech Stack
 
@@ -42,7 +42,7 @@ The dataset contains **113,549 Spotify tracks** across **114 music genres**, wit
 - **Power BI** – Interactive dashboard development and data visualization
 
 
-
+---
 
 ## Project Workflow
 
@@ -58,7 +58,7 @@ The dataset contains **113,549 Spotify tracks** across **114 music genres**, wit
 
 
 
-
+---
 
 ## Key Insights
 
