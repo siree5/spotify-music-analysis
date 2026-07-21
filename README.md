@@ -4,10 +4,7 @@
 This repository presents an end-to-end analysis of the Spotify Tracks Dataset containing **114,000 songs** across **114 music genres**. The project covers data cleaning, SQL-based exploratory data analysis, and interactive Power BI dashboards to uncover insights into artist performance, genre popularity, track characteristics, and audio features.
 
 
-
-
-
-![Executive Overview]([page1_overview.png](https://github.com/siree5/spotify-music-analysis/blob/main/images/page1_overview.png))
+![Executive Overview](./images/page1_overview.png)
 
 
 
