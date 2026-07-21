@@ -7,7 +7,7 @@ This repository presents an end-to-end analysis of the Spotify Tracks Dataset co
 
 
 
-![Executive Overview](page1_overview.png)
+![Executive Overview]([page1_overview.png](https://github.com/siree5/spotify-music-analysis/blob/main/images/page1_overview.png))
 
 
 
