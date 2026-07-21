@@ -1,18 +1,17 @@
-\# Spotify Dataset Exploratory Data Analysis (EDA)
+# Spotify Music Data Analysis
 
 
-
-This repository contains an exploratory data analysis of the Spotify Tracks Dataset featuring \*\*114,000 tracks\*\* across \*\*114 music genres\*\*. The project includes data cleaning, SQL-based exploratory data analysis, and interactive Power BI dashboards to uncover insights into artist performance, genre popularity, track characteristics, and audio features.
-
-
-
-
-
-!\[Executive Overview](images/page1\_overview.png)
+This repository presents an end-to-end analysis of the Spotify Tracks Dataset containing **114,000 songs** across **114 music genres**. The project covers data cleaning, SQL-based exploratory data analysis, and interactive Power BI dashboards to uncover insights into artist performance, genre popularity, track characteristics, and audio features.
 
 
 
 
+
+![Executive Overview](page1_overview.png)
+
+
+
+---
 
 \## Dataset Overview
 
